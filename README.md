@@ -4,10 +4,10 @@ upload any csv from web, choose what to clean and download cleaned data in your 
 
 ### Plugin
 
--Bootstrap
--Datatable
--Chart Js
+-Bootstrap <br />
+-Datatable <br />
+-Chart Js <br />
 
 ### IDE
--PyCharm
--Laragon
+-PyCharm <br />
+-Laragon <br />
